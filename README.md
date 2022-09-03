@@ -1,1 +1,1 @@
-#random_idea
+#random-idea
